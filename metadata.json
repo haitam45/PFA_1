@@ -1,0 +1,6 @@
+{
+  "name": "Parc Informatique PFA",
+  "description": "Application web académique de gestion du parc informatique, des affectations, restitutions, pannes et rapports de maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
